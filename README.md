@@ -1,25 +1,50 @@
-👋 Hi, I’m @guusvandewal
-👀 I’m interested in JavaScript, Figma, Sketch, Adobe XD, React, Next.js, Vue.js, Astro, HTML & CSS and UI
+# 🌆👾 Welcome to the Neon Zone
 
-Welcome to my neon-soaked corner of the internet! I’m a Senior Web Designer & Front-end Developer who crafts vibrant 80s-inspired experiences with code and color. With synth beats in my headphones, I build grid-lined horizons and glowing interfaces that feel straight out of a retro-future dreamscape. I love bringing the analog warmth of the past into the digital world of tomorrow.
+![synthwave banner](https://media.giphy.com/media/jVStpYT3DmdwY/giphy.gif)
 
-🔮 Tech Radar
-	•	💻 JavaScript (ES6+) — the universal language of the web.
-	•	⚛️ Frameworks: React (Next.js) & Vue.js — component-based UI magic.
-	•	🌟 Static Sites: Astro — blazing-fast starships of content.
-	•	🌐 Core Tech: HTML5 & CSS3 — building blocks of any neon-lit layout.
+# 👋 Hi, I’m @guusvandewal
 
-🎛️ Tools I Love
+👀 I’m interested in **JavaScript**, **Figma**, **Sketch**, **Adobe XD**, **React**, **Next.js**, **Vue.js**, **Astro**, **HTML & CSS**, and all things **UI/UX**.
 
-I mix and match my digital synthboard with:
-	•	🎨 Figma & Sketch — wireframing in psychedelic color.
-	•	✏️ Adobe XD — prototyping with retro polish.
-	•	💻 VS Code — my code editor tuned to neon mode.
-	•	🔧 Git & CLI — command-line synthesizers for a seamless workflow.
+Welcome to my neon-soaked corner of the internet! I'm a Senior Front-end Developer & UI/UX Designer who crafts vibrant 80s-inspired experiences with code and creativity.  
+With synth beats in my headphones, I build grid-lined horizons and glowing interfaces that feel straight out of a retro-futuristic dreamscape.  
+I love bringing the analog warmth of the past into the digital world of tomorrow.
 
-🌌 Let’s Connect
+---
 
-The neon grids are vast, but you can always reach me through these channels:
-	•	🌐 Website: guusvandewal.nl — check out my projects and portfolio.
-	•	🤝 LinkedIn: @guusvandewal — let’s collaborate and chat.
-	•	✉️ Email: web@guusvandewal.nl — drop me a line anytime.
+## 🔮 Tech Radar
+
+- 💻 **JavaScript** (ES6+) — the universal language of the web  
+- ⚛️ **Frameworks:** React, Next.js, Vue.js — component-based UI magic  
+- 🚀 **Astro** — for lightning-fast static sites  
+- 🌐 **Core Tech:** HTML5 & CSS3 — glowing foundations of the web  
+
+---
+
+## 🎛️ Tools I Love
+
+My digital toolbox is tuned for full neon output:
+
+- 🎨 **Figma** & **Sketch** — wireframing in vibrant color  
+- ✏️ **Adobe XD** — prototyping with retro polish  
+- 💻 **VS Code** — with synthwave theme, of course  
+- 🔧 **Git & CLI** — clean commits with style  
+
+---
+
+## 🌌 Let’s Connect
+
+The neon grids are vast, but you can always reach me here:
+
+- 🌐 [guusvandewal.nl](https://www.guusvandewal.nl) — My home base on the web  
+- 🤝 [LinkedIn](https://www.linkedin.com/in/guusvandewal) — Let’s collaborate  
+- ✉️ [web@guusvandewal.nl](mailto:web@guusvandewal.nl) — Hit my inbox anytime  
+- 🐦 [Twitter / X](https://x.com/guusvandewal) — Tech thoughts & synth vibes  
+
+---
+
+## 🧠 Bonus Vibes
+
+![retro synth](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
+
+> *“Stay rad, code clean, and always use a grid.”*
