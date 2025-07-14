@@ -1,6 +1,7 @@
 # 🌆👾 Welcome to the Neon Zone
 
 ![synthwave banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW02YTBqcXg1cnp1cHRqcmNhZjdjdXlleW0yaDF5anF6dGlvNnZndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jx4jKhrKvifvCZtyN5/giphy.gif)
+![synthwave banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW02YTBqcXg1cnp1cHRqcmNhZjdjdXlleW0yaDF5anF6dGlvNnZndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jx4jKhrKvifvCZtyN5/giphy.gif)
 
 # 👋 Hi, I’m @guusvandewal
 
