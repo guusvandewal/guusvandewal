@@ -42,8 +42,4 @@ The neon grids are vast, but you can always reach me here:
 
 ---
 
-## 🧠 Bonus Vibes
-
-![retro synth](https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif)
-
 > *“Stay rad, code clean, and always use a grid.”*
