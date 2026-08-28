@@ -23,7 +23,7 @@ I love bringing the analog warmth of the past into the digital world of tomorrow
 
 My digital toolbox is tuned for full neon output:
 
-- 🎨 **Figma** & **Sketch** — wireframing in vibrant color  
+- 🎨 **Figma** & **Sketch**, wireframing in vibrant color  
 - ✏️ **Adobe XD** prototyping with retro polish  
 - 💻 **VS Code** with synthwave theme, of course  
 - 🔧 **Git & CLI** clean commits with style  
