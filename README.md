@@ -15,7 +15,7 @@ I love bringing the analog warmth of the past into the digital world of tomorrow
 - 💻 **JavaScript** (ES6+) the universal language of the web  
 - ⚛️ **Frameworks:** React, Next.js, Vue.js, component-based UI magic  
 - 🚀 **Astro** for lightning-fast static sites  
-- 🌐 **Core Tech:** HTML5 & CSS3 — glowing foundations of the web  
+- 🌐 **Core Tech:** HTML5 & CSS3, glowing foundations of the web  
 
 ---
 
