@@ -12,9 +12,9 @@ I love bringing the analog warmth of the past into the digital world of tomorrow
 
 ## 🔮 Tech Radar
 
-- 💻 **JavaScript** (ES6+) — the universal language of the web  
-- ⚛️ **Frameworks:** React, Next.js, Vue.js — component-based UI magic  
-- 🚀 **Astro** — for lightning-fast static sites  
+- 💻 **JavaScript** (ES6+) the universal language of the web  
+- ⚛️ **Frameworks:** React, Next.js, Vue.js, component-based UI magic  
+- 🚀 **Astro** for lightning-fast static sites  
 - 🌐 **Core Tech:** HTML5 & CSS3 — glowing foundations of the web  
 
 ---
@@ -24,9 +24,9 @@ I love bringing the analog warmth of the past into the digital world of tomorrow
 My digital toolbox is tuned for full neon output:
 
 - 🎨 **Figma** & **Sketch** — wireframing in vibrant color  
-- ✏️ **Adobe XD** — prototyping with retro polish  
-- 💻 **VS Code** — with synthwave theme, of course  
-- 🔧 **Git & CLI** — clean commits with style  
+- ✏️ **Adobe XD** prototyping with retro polish  
+- 💻 **VS Code** with synthwave theme, of course  
+- 🔧 **Git & CLI** clean commits with style  
 
 ---
 
