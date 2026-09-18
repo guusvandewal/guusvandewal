@@ -34,9 +34,9 @@ My digital toolbox is tuned for full neon output:
 
 The neon grids are vast, but you can always reach me here:
 
-- 🌐 [guusvandewal.nl](https://www.guusvandewal.nl) — My home base on the web  
-- 🤝 [LinkedIn](https://www.linkedin.com/in/guusvandewal) — Let’s collaborate  
-- ✉️ [web@guusvandewal.nl](mailto:web@guusvandewal.nl) — Hit my inbox anytime  
+- 🌐 [guusvandewal.nl](https://www.guusvandewal.nl) | My home base on the web  
+- 🤝 [LinkedIn](https://www.linkedin.com/in/guusvandewal) | Let’s collaborate  
+- ✉️ [web@guusvandewal.nl](mailto:web@guusvandewal.nl) | Hit my inbox anytime  
 
 ---
 
